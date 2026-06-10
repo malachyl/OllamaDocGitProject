@@ -9,6 +9,8 @@ tags:	[Reference, basic]
 # Terminology
 <!-- If you update the document title, ensure you update the title in the metadata above to match -->
 
+<!-- Add terms as you author topics and decide what might need explanation or disambiguation. Include teriminology definitions in alphabetical order -->
+
 **Open weight** LLMs keep their training data and training code secret, but you can download and run them locally and customize or fine tune them.
 
 **Open source** LLMs make their training data and training code public. You can download and customize them.
