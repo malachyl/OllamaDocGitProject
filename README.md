@@ -15,7 +15,7 @@ This is a documentation project in git to describe how to install, configure, an
 The project borrows the concept of topic types from Darwin Information Typing Architecture (DITA) model, so each markdown file has a type of Task, Concept, or Reference. As an author, you must code the markdown file type in the file metadata under tags. You also must apply type discipline in the file's content: for example, do not include numbered lists of instructions in a concept or reference type file.
 Task type topics broadly follow the DITA layout by including a description of the purpose of the task, prerequisites, task steps, and (optionally) next steps.
 
-In addition, the project implements a target audience capability level of basic, intermediate, or advanced. Similar to the topic type, encode the audience level in the metadata under tags. In addition, ensure you use an appropriate level of readability for the intended audience, such as checking that the Flesch-Kincaid readability score is low in topics for a basic audience.
+In addition, the project implements a target audience capability level of basic, intermediate, or advanced: these attributes will drive the presentation on the knowledgebase website. Similar to the topic type, encode the audience level in the metadata under tags. In addition, ensure you use an appropriate level of readability for the intended audience, such as checking that the Flesch-Kincaid readability score is low in topics for a basic audience.
 
 ## Style guide
 <!-- ToDo - reference style guide here -->
